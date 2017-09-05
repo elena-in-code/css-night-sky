@@ -147,3 +147,8 @@ h1 {
 /*end of comet*/
 
 
+@media screen and (max-width: 1366px) {
+	body {
+		background: red;
+	}
+}
